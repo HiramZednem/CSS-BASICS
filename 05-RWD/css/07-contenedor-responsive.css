@@ -1,0 +1,16 @@
+/*Contenedores responsive*/
+
+.contenedor-responsive {
+    background-color: #fff;
+    /* 
+    colocar porcentajes nos ayuda a que los contenedores se ajusten, y con max-width controlamos hasta donde pueden ampliarse... 
+    width: 90px;
+    max-width: 1000px;
+
+    shorthand:
+    */
+    width: min(90%, 1000px);
+
+    height: 400px;
+    margin: 0 auto;
+}

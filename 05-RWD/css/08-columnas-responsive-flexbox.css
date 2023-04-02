@@ -1,0 +1,13 @@
+/* columnas responsive en flexbox */
+@media (min-width: 768px) {
+    .tres-columnas-flex{
+        display: flex;
+        gap: 2rem;
+    }
+
+    .columna {
+        /* es el factor de crecimiento por caja, sirve para hacer disenios mamalones cuando aplicamos por especifico a cada hijo */
+        flex-grow: 1;
+    }
+    
+}

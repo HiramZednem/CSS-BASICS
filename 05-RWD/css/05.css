@@ -1,0 +1,8 @@
+/* Snippet Media Querys */
+@media (min-width: 250px) {
+	.oferta {
+		background-color: aliceblue;
+	}
+}
+
+/* ahora cuando escribo mq, tengo un snippet personalizable con el que trabajo como el de arriba! */

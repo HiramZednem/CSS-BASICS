@@ -1,0 +1,30 @@
+/* tamanios estandar para media query */
+/*
+    estamos usando los estandares de bootstrap:
+        576px - celulares
+        768px - tablets
+        992px - desktops
+        1200px - large desktops
+
+        Los tamanios son  variantes pero siempre estan masomenos definidos con estos de arriba.....
+*/
+
+@media (min-width: 550px) {
+    
+}
+
+@media (min-width: 768px) {
+    
+}
+
+@media (min-width: 1024px) {
+    
+}
+
+@media (min-width: 1200px) {
+    
+}
+
+@media (min-width: 1600px) {
+    
+}
